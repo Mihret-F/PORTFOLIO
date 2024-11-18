@@ -1,0 +1,26 @@
+a:link{  
+  
+    background-color:pink ;
+    color:white;  
+    padding:15px 20px;
+    
+    }  
+    body{
+        background-color: aliceblue;
+        color:black;
+    }
+    h1{
+        text-align: center;
+        
+    }
+    input[type=text] {
+        border: 2px solid rgb(20, 20, 20);
+        height: 400px;
+        width: 50%;
+        background-color:pink;
+        color: rgb(13, 13, 14);
+
+        }
+        h3{
+            text-align: center;
+        }

@@ -1,0 +1,38 @@
+body{
+    background-color: aliceblue;}
+    tabel,th,td{
+        border: 1px solid black;}
+    tabel{
+    height: 500px;
+    width:900px;
+}
+th{
+    height:50px ;
+    vertical-align: bottom;
+}
+td{
+    padding: 25px;
+    text-align: center;
+
+}
+tr:nth-child(even){
+    background-color: beige;
+    color: black;
+}
+tr:nth-child(odd){
+    background-color: blanchedalmond;
+    color: rgb(233, 47, 47);
+}
+p{
+    text-align: left;
+}
+ 
+a:link{  
+  
+    background-color:rgb(150, 159, 240) ;
+    color:rgb(14, 14, 15);  
+    padding:15px 20px; }
+caption{
+    padding:40px ;
+}
+    

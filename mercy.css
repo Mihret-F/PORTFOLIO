@@ -1,0 +1,152 @@
+body{
+color:rgb(14, 13, 13);
+
+background: linear-gradient(rgb(155, 155, 136),rgb(223, 103, 103),rgb(216, 47, 47))
+
+
+}
+ 
+a:link{  
+  
+    background-color:rgb(95, 203, 230) ;
+    color:white;  
+    padding:10px;
+    margin: 10px;
+    font-weight: bold;
+    }  
+  h1{
+    text-align: right;
+    padding: 100px 20px 20px 20px;
+  }    
+
+  .header{margin:-8px -8px 0px;background:linear-gradient(blue,skyblue);color:white;text-align:center;padding:10px;
+  }  
+  P{
+    text-align: right;
+    border: 5px 5px black;
+  }
+ .text h1,p{
+text-align: left;
+
+  }
+  .section img{
+    text-align: left;
+  }
+  span{
+    color:white;
+  }
+  .text {
+text-align: ;
+display: flex;
+flex-direction: left;
+
+  }
+  a:link{  
+  
+    background-color:pink ;
+    color:white;  
+    padding:15px 20px;
+    
+    }  
+    body{
+        background-color: aliceblue;
+        color:black;
+    }
+    h1{
+        text-align: center;
+        
+    }
+    input[type=text] {
+        border: 2px solid rgb(20, 20, 20);
+        height: 400px;
+        width: 50%;
+        background-color:pink;
+        color: rgb(13, 13, 14);
+
+        }
+        h3{
+            text-align: center;
+        }
+        body{
+          background-image:url( mami.jpg;)
+          color:white;
+              }
+              
+              a:link{  
+        
+                  background-color:burlywood ;
+                  color:white;  
+                  padding:15px 20px;
+                  
+                  }  
+                   img {  border-radius: 800px; 
+                  text-align: center; }
+                  .image:hover:m{
+      left:45%;
+                  }
+                  h1{
+                    text-align:center;}
+                    body{
+                            background-color: pink;
+                            color: rgb(17, 17, 17);}
+                           
+                            a:link{  
+                      
+                      background-color:rgb(20, 114, 196);
+                      color:rgb(14, 13, 13);  
+                      padding:15px 20px;
+                      
+                      }  
+                    
+                      body{
+                        background-color: aliceblue;}
+                        tabel,th,td{
+                            border: 1px solid black;}
+                        tabel{
+                        height: 500px;
+                        width:900px;
+                    }
+                    th{
+                        height:50px ;
+                        vertical-align: bottom;
+                    }
+                    td{
+                        padding: 25px;
+                        text-align: center;
+                    
+                    }
+                    tr:nth-child(even){
+                        background-color: beige;
+                        color: black;
+                    }
+                    tr:nth-child(odd){
+                        background-color: blanchedalmond;
+                        color: rgb(233, 47, 47);
+                    }
+                    p{
+                        text-align: left;
+                    }
+                     
+                    a:link{  
+                      
+                        background-color:rgb(150, 159, 240) ;
+                        color:rgb(14, 14, 15);  
+                        padding:15px 20px; }
+                    caption{
+                        padding:40px ;
+                        font-weight: bold;
+                    }
+                .kb{
+                    display: flex;
+align-items: baseline;
+justify-content: space-around;
+margin: 2px;
+padding: 7px;
+display: block;
+background-color: black;
+color: white;
+                
+                  }      
+                    
+  
+   
